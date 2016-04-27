@@ -3,7 +3,7 @@ grails.project.test.class.dir = "target/test-classes"
 grails.project.test.reports.dir = "target/test-reports"
 grails.project.target.level = 1.6
 
-grails.project.repos.vlpPlugins.url = "https://build.projectnee.com/artifactory/vlp-plugins"
+grails.project.repos.vlpPlugins.url = "https://build.vmwlp.com/artifactory/vlp-plugins"
 grails.project.repos.default = "vlpPlugins"
 
 grails.project.dependency.resolver = "maven"
