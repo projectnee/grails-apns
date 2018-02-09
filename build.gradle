@@ -35,8 +35,8 @@ apply from:'https://raw.githubusercontent.com/grails/grails-profile-repository/m
 //    gradleWrapperVersion = project.gradleWrapperVersion
 //}
 
-//sourceCompatibility = 1.7
-//targetCompatibility = 1.7
+sourceCompatibility = 1.7
+targetCompatibility = 1.7
 
 repositories {
     mavenLocal()
