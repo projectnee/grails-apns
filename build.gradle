@@ -78,8 +78,10 @@ publishing {
         maven {
             url "https://build.vmwlp.com/artifactory/vlp-plugins-grails3"
             credentials {
-                username artifactory_user
-                password artifactory_password
+//                username artifactory_user
+//                password artifactory_password
+                  username "jenkins"
+                  password "Jenkins&368862"
             }
         }
     }
