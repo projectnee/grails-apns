@@ -76,11 +76,11 @@ dependencies {
 publishing {
     repositories {
         maven {
-            url "https://build.vmwlp.com/artifactory/vlp-plugins-grails3"
             credentials {
                 username artifactory_user
                 password artifactory_password
             }
+            url "https://build.vmwlp.com/artifactory/vlp-plugins-grails3"
         }
     }
 }
